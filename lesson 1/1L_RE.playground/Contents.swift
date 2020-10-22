@@ -1,4 +1,5 @@
 import UIKit
+
 // exercise 1
 let a: Double = 6
 let b: Double = 1
