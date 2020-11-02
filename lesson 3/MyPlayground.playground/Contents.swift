@@ -16,7 +16,7 @@ struct SportCar {
     var isEngineWork: Bool
     var isTruckFull: Bool
     var isWIndowsOpen: Bool
-    
+    	
     mutating func Activity (carAct: carAction) {
         switch carAct {
         case .startEngine:
